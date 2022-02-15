@@ -1,0 +1,36 @@
+
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+.vv{
+  text-align: right;
+}
+.Ab{
+  float: right;
+} 
+table,th,td{
+  border: 2px solid black;
+  border-collapse: collapse;
+
+}
+th,td{
+  padding: 20 px;
+}
+.jj{
+  background-color: aqua !important;
+  border: 2px solid black;
+
+}
+td {
+  border: 1px solid !important;
+}
+
+.mm{
+  float: right  ;
+}
+.qq{
+  text-align: center;
+  background-color: aqua;
+}
